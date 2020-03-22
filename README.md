@@ -1,2 +1,2 @@
 # ncdc_data_set
-2000~2019 YearNCDC数据集
+2000~2019 年NCDC数据集，由于Hadoop权威指南总提供的数据很少，根据完善的资料通过NCDC下载了2000年到2019年的NCDC数据，供学习Hadoop使用
